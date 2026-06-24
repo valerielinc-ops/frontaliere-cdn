@@ -1,0 +1,62 @@
+const e={"blog.article.parlamento-avs-frontalieri-2025.body1":`## In brief
+- AVS: States approve mixed funding for the 13th
+- Electronic medical prescriptions: towards mandatory status
+- Adoptive mothers: protection from dismissal like biological mothers
+- Bilateral III: discussion on double majority postponed
+
+## Key facts
+- **What**: Council of States approves funding proposal for 13th AVS
+- When: Thursday, parliamentary session
+- Where: Federal Palace, Bern
+- Who: Council of States, Conciliation Conference
+- Amount: not yet specified
+- Other decisions: electronic prescriptions, indebtedness, adoptive mothers
+- Proposing canton: Ticino (initiative for protection of adoptive mothers)
+
+Thursday was a short but intense day for the Federal Chambers. The Council of States approved the Conciliation Conference's proposals for mixed funding of the 13th AVS. An expected decision, which will now go to the National Council for a final vote.
+
+The session also touched on other important dossiers. On the healthcare front, the States discussed the mandatory introduction of electronic medical prescriptions, amending the federal law on therapeutic products. The goal: greater digitalization and safety for patients.
+
+The National Council, for its part, resolved the last divergence with the States on the matter of indebtedness. Over-indebted individuals will now be able to discharge their debts by declaring bankruptcy, a concrete second chance.
+
+The National Council also accepted an initiative from the Canton of Ticino: adoptive mothers will also be protected from dismissal, just like biological ones. Currently, the law protects jobs only during pregnancy and the 16 weeks after childbirth, but for adoptive parents there was no protection at all. The relevant committee will now have to draft a bill.
+
+Finally, the issue of the double majority (people and Cantons) for the Bilateral III agreements has been postponed: the dossier goes back to committee for further examination.
+
+### What it means for cross-border workers
+These decisions, taken in Bern, have a concrete impact on those who cross the border every day to work in Ticino. The 13th AVS, in particular, directly affects the retirement future of thousands of cross-border workers who pay contributions in Switzerland. Any change to its funding could translate into variations in payroll deductions or VAT rates, affecting disposable income.
+
+The digitalization of medical prescriptions will also simplify access to care for cross-border workers insured with LAMal, reducing errors and waiting times. The protection for adoptive mothers, finally, extends a fundamental safeguard to a category of workers previously excluded, ensuring job stability even in the event of adoption.`,"blog.article.parlamento-avs-frontalieri-2025.body2":`## Practical implications for those working in Ticino
+
+The proposal for mixed funding for the 13th AVS, although still lacking operational details, raises concrete questions for cross-border workers. Currently, the first pillar is financed by salary contributions (8.7% borne by the employee and employer for AVS only) and a contribution from the Confederation. The introduction of a thirteenth monthly pension, approved by the people, requires additional resources. Mixed funding could combine an increase in contributions with a rise in VAT, as previously discussed. For a cross-border worker receiving a salary in francs, an increase in AVS contributions would result in a reduction in their monthly net income, while a VAT increase would affect their purchasing power for consumer goods in Switzerland.
+
+On the healthcare front, the obligation for electronic prescriptions – once operational – will directly impact cross-border workers enrolled in LAMal. Today, many cross-border workers maintain Swiss health insurance; digitization promises to streamline the prescription and reimbursement process, eliminating paper documents and reducing the risk of errors. However, it will be crucial to verify compatibility with the computer systems of border pharmacies and doctors, often frequented by cross-border workers.
+
+Protection for adoptive mothers, finally, fills a regulatory gap. A cross-border worker who adopts a child will be able to count on the same protection against dismissal as biological mothers, avoiding the risk of losing their job at a time of greatest need for economic stability. The Ticino initiative, now transformed into a legislative mandate, will have to define the exact times of protection (the current 16 weeks could be extended or adapted).
+
+### Comparison scenarios
+To understand the potential impact of the 13th AVS, it is possible to hypothesize an increase in contributions of 0.4% (unofficial data, purely illustrative). On a gross salary of 5,000 francs, the monthly burden would be around 20 francs, equivalent to 240 francs per year. If, instead, the VAT route prevails, an additional percentage point would be reflected in every purchase. For a cross-border worker who spends an average of 1,500 francs per month in Switzerland, the increase in expenditure would be 15 francs per month. These are figures that, when added together, can affect the family budget.
+
+## Useful planning tools
+To estimate your pension strategy, use the [pension planner](nav:pension) and the [pillar 3 simulator](nav:pillar3).`,"blog.article.parlamento-avs-frontalieri-2025.body3":`## What to do now: concrete steps for cross-border workers
+
+Waiting for Parliament to define the details of the financing of the 13th AVS payment and for other measures to become operational, here are some practical steps for cross-border commuters.
+
+### 1. Monitor the legislative process
+The dossier of the 13th AVS payment is now under examination by the National Council. Final approval could come by the summer session. It is useful to follow updates through the official channels of Parliament or DSS press releases. Once the financing mechanism is defined, it will be possible to precisely calculate the impact on the pay slip.
+
+### 2. Check your AVS position
+Every cross-border worker has an AVS account statement summarizing the contributions paid. Requesting it (through the competent compensation fund) allows you to verify that all periods of work in Switzerland are correctly recorded. In perspective, the 13th AVS payment will increase the amount of the pension, but only for those with a complete contribution career.
+
+### 3. Update your retirement planning
+The introduction of the thirteenth AVS monthly payment changes the calculation of the future pension. It is advisable to review your pension strategy, possibly supplementing with a third pillar 3a to compensate for any gaps. Our [pension calculator](nav:pension) can help estimate the expected pension amount.
+
+### 4. Prepare for the electronic prescription
+If you are insured with LAMal, inquire with your health insurance fund about the introduction of the digital prescription and the access methods. It may be necessary to activate a digital identity (such as SwissID) to manage prescriptions online.
+
+### 5. Know the new rights for adoptive mothers
+Female workers who are about to adopt or have already adopted should contact their employer or a legal advisor to understand how and when the protection against dismissal will trigger, as soon as the law comes into force.
+
+To stay updated on all tax and social security news affecting cross-border commuters, use our tools: the [net salary calculator](nav:calculator) to simulate the effect of any contribution increases, and the [tax return guide](nav:tax-return) to best manage double taxation.
+
+*Source: [rsi.ch](https://www.rsi.ch/s/3809087)*`,"blog.article.parlamento-avs-frontalieri-2025.faq":'[{"q":"What is the 13th AHV pension?","a":"It is a supplementary monthly AHV pension payment, approved by the Swiss people, that will be paid once a year to retirees. Its financing is now under discussion in Parliament."},{"q":"When will the 13th AHV pension come into effect?","a":"The effective date has not yet been set. It will depend on the final approval of funding by the Federal Chambers and the technical implementation timeline."},{"q":"Will electronic prescriptions be mandatory for everyone?","a":"According to the amendment approved by the Council of States, electronic prescriptions could become mandatory, but the final decision rests with the National Council and will require a transition period."},{"q":"Does the protection for adoptive mothers also apply to cross-border workers?","a":"Yes, once the law is in force, it will apply to all female workers in Switzerland, including cross-border workers. Protection against dismissal will take effect from the moment of adoption."}]'};export{e as default};

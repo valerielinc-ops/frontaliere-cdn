@@ -1,0 +1,62 @@
+const e={"blog.article.ritmi-insostenibili-logistica-dpd.body1":`## In brief
+- DPD Collective: high paces and unsustainable loads in warehouses
+- Increase in accidents, musculoskeletal disorders and burnout
+- Criticism of the 'sick note cheats' narrative
+- Call to focus on companies' responsibilities
+
+## Key facts
+- **What**: Denunciation of working conditions in the logistics sector
+- Who: DPD Giubiasco Workers' Collective
+- Where: Giubiasco, Canton Ticino
+- When: Recent statement (date not specified)
+- Problem: Unsustainable paces, staff shortages, pressure on productivity
+- Consequences: Increase in accidents, musculoskeletal disorders, burnout
+- Objective: Shift the debate from individual absences to structural causes
+
+The DPD Workers' Collective of Giubiasco has broken its silence with a statement pointing the finger at the real working conditions in the logistics sector. At the heart of the denunciation are paces described as 'increasingly high' and workloads that often exceed 'the limits of physical and psychological sustainability'. A stance that comes as the public debate focuses on the so-called 'sick note cheats', a narrative that the collective brands as 'as convenient as it is dangerous'.
+
+According to the collective, behind the increase in sick leave there are no individual abuses, but precise structural causes: the intensification of paces, chronic staff shortages, permanent pressure on productivity targets, imposed flexibility and the progressive deterioration of working conditions. A reality that, they denounce, is systematically ignored by a public opinion too focused on the caricature of the worker pretending to be ill.
+
+### Criticism of the 'cheats' narrative
+The statement directly attacks the media framing that fuels 'a climate of control, distrust and intimidation' towards anyone who needs to protect their health. For the DPD Workers' Collective, this is a strategy that avoids addressing the responsibilities of those who organize work and profit economically from the intensification of production paces. 'Illness is not a fault', they write, and the protections related to health and loss of earnings compensation are 'achievements obtained through decades of trade union and social struggles'.
+
+### The collective's demands
+The collective invites the media, institutions and public opinion to stop chasing the stereotype of the 'cheat' and instead focus on the organizational choices of companies. In the logistics sector, it reads, 'behind the rhetoric of efficiency and speed of deliveries lies a work organization' that shifts the costs of competitiveness onto workers. Warehouses, sorting centers and distribution services operate with subcontracting systems, increasingly high paces and often unsustainable loads. It is therefore not surprising that there is an increase in accidents, musculoskeletal disorders, burnout cases and work-related stress. Rather, it is surprising that the direct link between these conditions and corporate choices continues to be ignored.`,"blog.article.ritmi-insostenibili-logistica-dpd.body2":`## Practical Analysis: What Does It Mean for Workers in Switzerland
+
+The complaint filed by the Collettivo Operaio DPD in Giubiasco is not an isolated case. Throughout Switzerland, the logistics sector is under increasing pressure due to e-commerce and the demand for fast deliveries. The conditions described – staff shortages, stringent productivity targets, and imposed flexibility – are common in many warehouses and distribution centers. They have a direct impact on the health of workers and, consequently, on the social security system.
+
+When a worker falls ill due to unsustainable working conditions, the costs do not only affect the individual. The mandatory health insurance (LAMal/KVG) covers medical treatment, but for daily allowances in case of illness, daily indemnity insurance comes into play, often stipulated by employers. If absences increase due to occupational diseases or burnout, collective insurance premiums can rise, affecting the [cost of living in Switzerland](nav:cost-of-living) for everyone. Furthermore, a worker who is injured or develops a chronic illness may need to rely on disability insurance (AI/IV) or, in severe cases, social assistance.
+
+### Employer Responsibilities
+
+In Switzerland, the Labor Law (ArG) and the Ordinance on Accident Prevention (OPI) require employers to protect the physical and mental health of their employees. Cantonal labor inspectorates are responsible for monitoring compliance with these regulations. However, as the collective points out, it is often preferred to blame individual workers rather than examining the organization of work. The State Secretariat for Economic Affairs (SECO) monitors labor market conditions and regularly publishes data on occupational accidents, but the issue of mental illnesses related to work stress remains difficult to quantify.
+
+### What Changes for Logistics Workers
+
+For those working in logistics, the Collettivo DPD's statement represents an attempt to break the silence and claim often-trampled rights. The pressure not to take sick leave, for fear of economic or disciplinary repercussions, is a phenomenon known as 'presenteeism' and can exacerbate health conditions. The collective emphasizes that many workers continue to work despite health problems, precisely for fear of retaliation. A vicious cycle that, in the long run, worsens productivity and increases social costs.
+
+For workers, it is essential to know their rights and who to turn to. Each canton has a labor inspectorate where they can report hazardous or unsustainable working conditions. Additionally, trade unions offer advice and legal support. [Health insurance](nav:health) covers medical treatment, but to obtain a daily allowance in case of illness, it is necessary to verify the insurance coverage provided by the collective or individual contract.
+
+## Recommended tools
+For an updated estimate, use the [net salary calculator](nav:calculator) and the [CHF-EUR exchange comparator](nav:exchange).`,"blog.article.ritmi-insostenibili-logistica-dpd.body3":`## How to act: step by step
+
+If you recognize yourself in the conditions described by the DPD Workers' Collective, or if you believe your work environment could endanger your health, here is a concrete procedure to follow.
+
+### 1. Document the situation
+Keep a diary of working conditions: actual hours, assigned loads, pressures received, any physical or psychological symptoms. Save emails, messages, and any communication related to productivity targets. This documentation will be useful in case of a dispute.
+
+### 2. Talk to your superior or human resources
+The first formal step is to report the problem internally. Explain clearly and with documentation how work rhythms are affecting your health. Remember that the employer has a legal obligation to ensure safe working conditions.
+
+### 3. Contact the union or the labour inspectorate
+If internal dialogue does not produce results, contact a sector union (such as UNIA or SYNA) or directly the cantonal labour inspectorate. In Ticino, the Labour Inspectorate Office is under the Department of Finance and Economy. You can file an anonymous report. Inspectors can carry out checks and, if they find violations, impose sanctions.
+
+### 4. Protect your health
+Do not neglect symptoms. Consult a doctor and, if necessary, get a period of rest prescribed. The law protects you from retaliation in case of certified sick leave. Also, check your insurance coverage: daily sickness allowance is often included in collective agreements, but it can vary. Use our comparison tool for [health insurance](nav:health) to understand if your policy is adequate.
+
+### 5. Calculate the economic impact
+A prolonged absence can reduce income. With our [salary calculator](nav:calculator) you can simulate net salary in different scenarios, including the reduction due to daily allowances. Plan ahead to avoid surprises.
+
+The DPD Workers' Collective reminds that "the problem is not the workers who get sick. The problem is the system that makes them sick." Knowing your rights and acting promptly is the first step to change things.
+
+*Source: [tio.ch](https://www.tio.ch/ticino/attualita/1930973/lavoro-salute-lavoratori-malattia-condizioni)*`,"blog.article.ritmi-insostenibili-logistica-dpd.faq":`[{"q":"What exactly does the DPD Workers' Collective denounce?","a":"It denounces increasingly high work rates, unsustainable workloads, chronic staff shortages, and constant pressure on productivity targets in the logistics sector. These conditions cause an increase in accidents, musculoskeletal disorders, burnout, and work-related stress."},{"q":"Why does the collective criticize the narrative of the 'sick note cheats'?","a":"Because it believes it diverts attention from the structural causes of sickness absence, fueling a climate of suspicion and intimidation towards workers who genuinely need to protect their health."},{"q":"What can a worker do if working conditions are unsustainable?","a":"They must document the situation, report it to the employer, contact a trade union or the cantonal labour inspectorate, and consult a doctor to protect their health. The law protects against retaliation in case of certified sick leave."}]`};export{e as default};

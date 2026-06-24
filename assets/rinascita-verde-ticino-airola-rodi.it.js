@@ -1,0 +1,47 @@
+const i={"blog.article.rinascita-verde-ticino-airola-rodi.body1":`## In breve
+- Lavori di rivitalizzazione del fiume Ticino tra Airolo e Rodi
+- Investimento di 8 milioni di franchi
+- Inaugurato il sentiero tematico 'Lungo il fiume'
+- Interventi per la sicurezza idraulica e la tutela dell'habitat naturale
+
+## Fatti chiave
+- **Cosa**: Lavori di rivitalizzazione e sistemazione idraulica del fiume Ticino
+- Quando: Iniziati nel 2023, conclusione prevista entro il 2026
+- Dove: Tra Airolo e Rodi, in Alta Leventina
+- Chi: Dipartimento del territorio, Consorzio manutenzione Alta Leventina (CMAL), Ritom SA
+- Importo: 8 milioni di franchi
+
+Sono stati presentati questa mattina, nella cornice dei laghetti Audan ad Ambrì, i lavori di rivitalizzazione e sistemazione idraulica del fiume Ticino in Alta Leventina. L'evento, promosso dal Dipartimento del territorio (DT) in collaborazione con il Consorzio manutenzione Alta Leventina (CMAL) e Ritom SA, ha visto la partecipazione del Consigliere di Stato Norman Gobbi, del presidente del CMAL Valerio Jelmini, del direttore di Ritom SA Lucas Dürr e del capo dell'Ufficio dei corsi d'acqua del DT Laurent Filippini, oltre a numerosi ospiti e cittadini.
+
+### Il progetto e i suoi obiettivi
+
+Il progetto affonda le sue radici nel 2015, in parallelo al rinnovo della concessione per lo sfruttamento delle acque del Ritom, che prevedeva l'adozione di misure compensative a favore dell'ambiente. In questo contesto, il DT ha proposto di estendere le opere di sistemazione del fiume sull'intera tratta tra Airolo e Rodi, affidandone la committenza e il coordinamento al CMAL, che ha integrato anche interventi di protezione contro le piene.
+
+I lavori, suddivisi nei comparti Airolo–Stalvedro, Piotta e Audan–Varenzo–Rodi, sono stati orientati a due obiettivi principali: da un lato il mantenimento e l'adeguamento degli argini per aumentare la sicurezza delle zone edificabili, dall'altro la restituzione al fiume di parte del suo spazio originario, con particolare attenzione agli aspetti naturalistici e paesaggistici e al miglioramento dell'habitat acquatico.`,"blog.article.rinascita-verde-ticino-airola-rodi.body2":`## Impatto ambientale e paesaggistico
+
+Tra le opere realizzate figura anche il bacino di demodulazione da 100'000 metri cubi, costruito da Ritom SA nell’ambito della nuova centrale di Piotta e destinato a regolare i deflussi nel Ticino. A questo si aggiungono numerosi interventi di rivitalizzazione e premunizione lungo l’intero tratto tra Airolo e Rodi.
+
+### Il sentiero tematico 'Lungo il fiume'
+
+Per favorire la conoscenza del progetto e sensibilizzare la popolazione, il CMAL ha promosso il sentiero tematico 'Lungo il fiume', che si sviluppa lungo l'argine del Ticino. Il percorso è arricchito da undici postazioni informative, oltre a un pannello generale situato presso la centrale del Ritom, che illustrano gli interventi realizzati e il loro significato in relazione allo sviluppo naturale del fiume e alle sue interazioni con il bosco e la fauna acquatica.
+
+## Benefici per la comunità locale
+
+I lavori di rivitalizzazione del fiume Ticino non solo migliorano la sicurezza idraulica e la tutela dell'habitat naturale, ma offrono anche nuove opportunità per il turismo e il tempo libero. Il sentiero tematico 'Lungo il fiume' rappresenta un'attrazione per i visitatori, che possono scoprire la bellezza del paesaggio e gli interventi realizzati. Inoltre, la sistemazione idraulica del fiume contribuisce a proteggere le zone edificabili, aumentando la sicurezza per i residenti e le attività commerciali locali.
+
+## Tool consigliati
+Per una stima aggiornata, usa il [calcolatore stipendio netto](nav:calculator) e il [comparatore cambio CHF-EUR](nav:exchange).`,"blog.article.rinascita-verde-ticino-airola-rodi.body3":`## Cosa aspettarsi nei prossimi anni
+
+I lavori sono iniziati nel 2023 e nel corso del 2025 sono stati collaudati gli interventi di genio civile. Attualmente sono in corso le ultime opere forestali e di finitura, con conclusione prevista entro la fine del 2026. Nei cinque anni successivi saranno inoltre necessari interventi di gestione del verde, in particolare per la manutenzione delle piantagioni e il contenimento delle neofite invasive.
+
+### Manutenzione e gestione futura
+
+Il costo complessivo del progetto si aggira attorno agli 8 milioni di franchi, finanziati da Cantone, Confederazione, CMAL e Ritom SA secondo una chiave di riparto prestabilita. La gestione futura del progetto sarà affidata al CMAL, che si occuperà della manutenzione ordinaria e straordinaria, garantendo la sostenibilità degli interventi realizzati.
+
+## Strumenti utili per i frontalieri
+
+Per i frontalieri che vivono o lavorano nella zona interessata dai lavori, è importante essere informati sui cambiamenti e sulle opportunità offerte dal progetto. Il sentiero tematico 'Lungo il fiume' rappresenta un'opportunità per scoprire la bellezza del paesaggio e gli interventi realizzati. Inoltre, la sistemazione idraulica del fiume contribuisce a proteggere le zone edificabili, aumentando la sicurezza per i residenti e le attività commerciali locali.
+
+[Scopri di più sul costo della vita in Ticino](nav:cost-of-living) e [calcola il tuo stipendio netto](nav:calculator).
+
+*Fonte: [tio.ch](https://www.tio.ch/ticino/attualita/1929311/fiume-ritom-interventi-cmal-airolo)*`,"blog.article.rinascita-verde-ticino-airola-rodi.faq":`[{"q":"Qual è l'obiettivo principale dei lavori di rivitalizzazione del fiume Ticino?","a":"I lavori di rivitalizzazione del fiume Ticino hanno due obiettivi principali: il mantenimento e l'adeguamento degli argini per aumentare la sicurezza delle zone edificabili, e la restituzione al fiume di parte del suo spazio originario, con particolare attenzione agli aspetti naturalistici e paesaggistici e al miglioramento dell'habitat acquatico."},{"q":"Chi ha finanziato il progetto di rivitalizzazione del fiume Ticino?","a":"Il progetto di rivitalizzazione del fiume Ticino è stato finanziato da Cantone, Confederazione, CMAL e Ritom SA secondo una chiave di riparto prestabilita, con un costo complessivo di 8 milioni di franchi."},{"q":"Qual è il ruolo del sentiero tematico 'Lungo il fiume'?","a":"Il sentiero tematico 'Lungo il fiume' è stato creato per favorire la conoscenza del progetto e sensibilizzare la popolazione. Il percorso è arricchito da undici postazioni informative che illustrano gli interventi realizzati e il loro significato in relazione allo sviluppo naturale del fiume e alle sue interazioni con il bosco e la fauna acquatica."}]`};export{i as default};

@@ -1,0 +1,1319 @@
+{
+  "generatedAt": "2026-06-24T18:34:24.048Z",
+  "links": {
+    "allJobs": "https://frontaliereticino.ch/cerca-lavoro-ticino"
+  },
+  "totals": {
+    "activeJobs": 13097,
+    "activeCompanies": 623,
+    "activeLocations": 883,
+    "todayAdded": 705,
+    "todayUpdated": 12985,
+    "todayRemoved": 594,
+    "last7d": {
+      "added": 3619,
+      "updated": 88703,
+      "removed": 3180
+    },
+    "last30d": {
+      "added": 17072,
+      "updated": 249508,
+      "removed": 10026
+    }
+  },
+  "history": [
+    {
+      "date": "2026-03-20",
+      "totalJobs": 942,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-22",
+      "totalJobs": 895,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-23",
+      "totalJobs": 1094,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-24",
+      "totalJobs": 1016,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-25",
+      "totalJobs": 1185,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-26",
+      "totalJobs": 1190,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-27",
+      "totalJobs": 1317,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-28",
+      "totalJobs": 1311,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-29",
+      "totalJobs": 1309,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-30",
+      "totalJobs": 1198,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-03-31",
+      "totalJobs": 1339,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-01",
+      "totalJobs": 1305,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-02",
+      "totalJobs": 1540,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-03",
+      "totalJobs": 1523,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-04",
+      "totalJobs": 1524,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-05",
+      "totalJobs": 1511,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-06",
+      "totalJobs": 1517,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-07",
+      "totalJobs": 1519,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-08",
+      "totalJobs": 1481,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-09",
+      "totalJobs": 1594,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-10",
+      "totalJobs": 1600,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-11",
+      "totalJobs": 2444,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-12",
+      "totalJobs": 2897,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-13",
+      "totalJobs": 2687,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-14",
+      "totalJobs": 2471,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-15",
+      "totalJobs": 2458,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-16",
+      "totalJobs": 2468,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-17",
+      "totalJobs": 2466,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-18",
+      "totalJobs": 2471,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-19",
+      "totalJobs": 2461,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-20",
+      "totalJobs": 2459,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-21",
+      "totalJobs": 2451,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-22",
+      "totalJobs": 2487,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-23",
+      "totalJobs": 2503,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-24",
+      "totalJobs": 2496,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-25",
+      "totalJobs": 2490,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-26",
+      "totalJobs": 2514,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-27",
+      "totalJobs": 2492,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-28",
+      "totalJobs": 2518,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-29",
+      "totalJobs": 2487,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-04-30",
+      "totalJobs": 2527,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-05-01",
+      "totalJobs": 2504,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-05-02",
+      "totalJobs": 2452,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-05-03",
+      "totalJobs": 2442,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-05-04",
+      "totalJobs": 2130,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-05-05",
+      "totalJobs": 2122,
+      "added": 0,
+      "updated": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-05-06",
+      "totalJobs": 2108,
+      "added": 0,
+      "updated": 2016,
+      "removed": 94
+    },
+    {
+      "date": "2026-05-07",
+      "totalJobs": 2102,
+      "added": 0,
+      "updated": 2066,
+      "removed": 100
+    },
+    {
+      "date": "2026-05-08",
+      "totalJobs": 2113,
+      "added": 0,
+      "updated": 2076,
+      "removed": 85
+    },
+    {
+      "date": "2026-05-09",
+      "totalJobs": 2096,
+      "added": 0,
+      "updated": 2040,
+      "removed": 84
+    },
+    {
+      "date": "2026-05-10",
+      "totalJobs": 2236,
+      "added": 0,
+      "updated": 1881,
+      "removed": 222
+    },
+    {
+      "date": "2026-05-11",
+      "totalJobs": 3133,
+      "added": 0,
+      "updated": 2942,
+      "removed": 125
+    },
+    {
+      "date": "2026-05-12",
+      "totalJobs": 3180,
+      "added": 0,
+      "updated": 3225,
+      "removed": 296
+    },
+    {
+      "date": "2026-05-13",
+      "totalJobs": 3155,
+      "added": 0,
+      "updated": 3343,
+      "removed": 226
+    },
+    {
+      "date": "2026-05-14",
+      "totalJobs": 3125,
+      "added": 0,
+      "updated": 3143,
+      "removed": 109
+    },
+    {
+      "date": "2026-05-15",
+      "totalJobs": 3140,
+      "added": 0,
+      "updated": 3189,
+      "removed": 97
+    },
+    {
+      "date": "2026-05-16",
+      "totalJobs": 3116,
+      "added": 0,
+      "updated": 3145,
+      "removed": 113
+    },
+    {
+      "date": "2026-05-17",
+      "totalJobs": 3126,
+      "added": 0,
+      "updated": 3127,
+      "removed": 159
+    },
+    {
+      "date": "2026-05-18",
+      "totalJobs": 3335,
+      "added": 0,
+      "updated": 3404,
+      "removed": 138
+    },
+    {
+      "date": "2026-05-19",
+      "totalJobs": 5644,
+      "added": 0,
+      "updated": 3437,
+      "removed": 146
+    },
+    {
+      "date": "2026-05-21",
+      "totalJobs": 6116,
+      "added": 0,
+      "updated": 2552,
+      "removed": 3413
+    },
+    {
+      "date": "2026-05-22",
+      "totalJobs": 6126,
+      "added": 0,
+      "updated": 6064,
+      "removed": 246
+    },
+    {
+      "date": "2026-05-23",
+      "totalJobs": 6092,
+      "added": 0,
+      "updated": 6061,
+      "removed": 171
+    },
+    {
+      "date": "2026-05-24",
+      "totalJobs": 6084,
+      "added": 0,
+      "updated": 6020,
+      "removed": 94
+    },
+    {
+      "date": "2026-05-25",
+      "totalJobs": 6050,
+      "added": 121,
+      "updated": 6015,
+      "removed": 155
+    },
+    {
+      "date": "2026-05-26",
+      "totalJobs": 6201,
+      "added": 229,
+      "updated": 5984,
+      "removed": 78
+    },
+    {
+      "date": "2026-05-27",
+      "totalJobs": 6164,
+      "added": 422,
+      "updated": 6140,
+      "removed": 459
+    },
+    {
+      "date": "2026-05-28",
+      "totalJobs": 6319,
+      "added": 436,
+      "updated": 6129,
+      "removed": 280
+    },
+    {
+      "date": "2026-05-29",
+      "totalJobs": 6242,
+      "added": 251,
+      "updated": 6217,
+      "removed": 329
+    },
+    {
+      "date": "2026-05-30",
+      "totalJobs": 6303,
+      "added": 214,
+      "updated": 6250,
+      "removed": 157
+    },
+    {
+      "date": "2026-05-31",
+      "totalJobs": 6275,
+      "added": 72,
+      "updated": 6246,
+      "removed": 100
+    },
+    {
+      "date": "2026-06-01",
+      "totalJobs": 6175,
+      "added": 315,
+      "updated": 6164,
+      "removed": 416
+    },
+    {
+      "date": "2026-06-02",
+      "totalJobs": 6253,
+      "added": 362,
+      "updated": 6115,
+      "removed": 284
+    },
+    {
+      "date": "2026-06-03",
+      "totalJobs": 7070,
+      "added": 1059,
+      "updated": 6766,
+      "removed": 244
+    },
+    {
+      "date": "2026-06-05",
+      "totalJobs": 7350,
+      "added": 737,
+      "updated": 7280,
+      "removed": 461
+    },
+    {
+      "date": "2026-06-09",
+      "totalJobs": 7350,
+      "added": 609,
+      "updated": 7317,
+      "removed": 609
+    },
+    {
+      "date": "2026-06-10",
+      "totalJobs": 8521,
+      "added": 1544,
+      "updated": 8287,
+      "removed": 373
+    },
+    {
+      "date": "2026-06-11",
+      "totalJobs": 10433,
+      "added": 2349,
+      "updated": 9781,
+      "removed": 437
+    },
+    {
+      "date": "2026-06-12",
+      "totalJobs": 12141,
+      "added": 2165,
+      "updated": 11901,
+      "removed": 456
+    },
+    {
+      "date": "2026-06-13",
+      "totalJobs": 12113,
+      "added": 274,
+      "updated": 12074,
+      "removed": 302
+    },
+    {
+      "date": "2026-06-14",
+      "totalJobs": 12036,
+      "added": 142,
+      "updated": 12014,
+      "removed": 211
+    },
+    {
+      "date": "2026-06-15",
+      "totalJobs": 12185,
+      "added": 533,
+      "updated": 11905,
+      "removed": 384
+    },
+    {
+      "date": "2026-06-16",
+      "totalJobs": 12140,
+      "added": 562,
+      "updated": 12141,
+      "removed": 607
+    },
+    {
+      "date": "2026-06-17",
+      "totalJobs": 12659,
+      "added": 1178,
+      "updated": 12094,
+      "removed": 659
+    },
+    {
+      "date": "2026-06-18",
+      "totalJobs": 12673,
+      "added": 605,
+      "updated": 12678,
+      "removed": 590
+    },
+    {
+      "date": "2026-06-19",
+      "totalJobs": 12710,
+      "added": 588,
+      "updated": 12687,
+      "removed": 551
+    },
+    {
+      "date": "2026-06-20",
+      "totalJobs": 12695,
+      "added": 282,
+      "updated": 12681,
+      "removed": 297
+    },
+    {
+      "date": "2026-06-21",
+      "totalJobs": 12633,
+      "added": 160,
+      "updated": 12596,
+      "removed": 222
+    },
+    {
+      "date": "2026-06-22",
+      "totalJobs": 12709,
+      "added": 518,
+      "updated": 12559,
+      "removed": 442
+    },
+    {
+      "date": "2026-06-23",
+      "totalJobs": 12986,
+      "added": 761,
+      "updated": 12517,
+      "removed": 484
+    },
+    {
+      "date": "2026-06-24",
+      "totalJobs": 13097,
+      "added": 705,
+      "updated": 12985,
+      "removed": 594
+    }
+  ],
+  "leaders": {
+    "topCompaniesActive": [
+      {
+        "key": "coop-genossenschaft",
+        "name": "Coop Genossenschaft",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-coop-genossenschaft",
+        "count": 906
+      },
+      {
+        "key": "hirslanden-klinik",
+        "name": "Hirslanden Klinik",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-hirslanden-klinik",
+        "count": 399
+      },
+      {
+        "key": "coop",
+        "name": "Coop",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-coop",
+        "count": 382
+      },
+      {
+        "key": "lidl",
+        "name": "Lidl Svizzera",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-lidl",
+        "count": 298
+      },
+      {
+        "key": "confederazione-svizzera",
+        "name": "Confederazione Svizzera",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-confederazione-svizzera",
+        "count": 294
+      },
+      {
+        "key": "bkw",
+        "name": "BKW",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-bkw",
+        "count": 288
+      },
+      {
+        "key": "volg",
+        "name": "VOLG",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-volg",
+        "count": 283
+      },
+      {
+        "key": "roche",
+        "name": "Roche",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-roche",
+        "count": 224
+      }
+    ],
+    "topLocationsActive": [
+      {
+        "key": "zurich",
+        "name": "Zürich",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-zurich",
+        "count": 1170
+      },
+      {
+        "key": "basel",
+        "name": "Basel",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-basel",
+        "count": 852
+      },
+      {
+        "key": "bern",
+        "name": "Bern",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-bern",
+        "count": 734
+      },
+      {
+        "key": "luzern",
+        "name": "Luzern",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-luzern",
+        "count": 342
+      },
+      {
+        "key": "st-gallen",
+        "name": "St. Gallen",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-st-gallen",
+        "count": 282
+      },
+      {
+        "key": "chur",
+        "name": "Chur",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-chur",
+        "count": 261
+      },
+      {
+        "key": "winterthur",
+        "name": "Winterthur",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-winterthur",
+        "count": 245
+      },
+      {
+        "key": "lausanne",
+        "name": "Lausanne",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-lausanne",
+        "count": 219
+      }
+    ],
+    "topCompaniesAddedToday": [
+      {
+        "key": "hoch-health-ostschweiz",
+        "name": "HOCH Health Ostschweiz",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-hoch-health-ostschweiz",
+        "count": 0,
+        "added": 112,
+        "updated": 99,
+        "removed": 0
+      },
+      {
+        "key": "coop-genossenschaft",
+        "name": "Coop Genossenschaft",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-coop-genossenschaft",
+        "count": 0,
+        "added": 76,
+        "updated": 912,
+        "removed": 0
+      },
+      {
+        "key": "lidl",
+        "name": "Lidl Svizzera",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-lidl",
+        "count": 0,
+        "added": 69,
+        "updated": 271,
+        "removed": 0
+      },
+      {
+        "key": "ubs",
+        "name": "UBS",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-ubs",
+        "count": 0,
+        "added": 37,
+        "updated": 17,
+        "removed": 0
+      },
+      {
+        "key": "eoc-ente-ospedaliero-cantonale",
+        "name": "EOC – Ente Ospedaliero Cantonale",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-eoc-ente-ospedaliero-cantonale",
+        "count": 0,
+        "added": 30,
+        "updated": 156,
+        "removed": 0
+      },
+      {
+        "key": "confederazione-svizzera",
+        "name": "Confederazione Svizzera",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-confederazione-svizzera",
+        "count": 0,
+        "added": 19,
+        "updated": 294,
+        "removed": 0
+      },
+      {
+        "key": "denner-ag",
+        "name": "Denner AG",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-denner-ag",
+        "count": 0,
+        "added": 12,
+        "updated": 149,
+        "removed": 0
+      },
+      {
+        "key": "ffs-officine-ferrovie-federali",
+        "name": "FFS Officine (Ferrovie Federali)",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-ffs-officine-ferrovie-federali",
+        "count": 0,
+        "added": 11,
+        "updated": 120,
+        "removed": 0
+      }
+    ],
+    "topCompaniesAdded30d": [
+      {
+        "key": "coop-genossenschaft",
+        "name": "Coop Genossenschaft",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-coop-genossenschaft",
+        "count": 0,
+        "added": 1348,
+        "updated": 912,
+        "removed": 0
+      },
+      {
+        "key": "hirslanden-klinik",
+        "name": "Hirslanden Klinik",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-hirslanden-klinik",
+        "count": 0,
+        "added": 452,
+        "updated": 395,
+        "removed": 0
+      },
+      {
+        "key": "confederazione-svizzera",
+        "name": "Confederazione Svizzera",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-confederazione-svizzera",
+        "count": 0,
+        "added": 425,
+        "updated": 294,
+        "removed": 0
+      },
+      {
+        "key": "lidl",
+        "name": "Lidl Svizzera",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-lidl",
+        "count": 0,
+        "added": 392,
+        "updated": 271,
+        "removed": 0
+      },
+      {
+        "key": "roche",
+        "name": "Roche",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-roche",
+        "count": 0,
+        "added": 376,
+        "updated": 228,
+        "removed": 0
+      },
+      {
+        "key": "coop",
+        "name": "Coop",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-coop",
+        "count": 0,
+        "added": 369,
+        "updated": 385,
+        "removed": 0
+      },
+      {
+        "key": "bkw",
+        "name": "BKW",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-bkw",
+        "count": 0,
+        "added": 312,
+        "updated": 289,
+        "removed": 0
+      },
+      {
+        "key": "volg",
+        "name": "VOLG",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-volg",
+        "count": 0,
+        "added": 281,
+        "updated": 277,
+        "removed": 0
+      }
+    ],
+    "topLocationsAdded30d": [
+      {
+        "key": "zurich",
+        "name": "Zurich",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-zurich",
+        "count": 0,
+        "added": 1211,
+        "updated": 1161,
+        "removed": 0
+      },
+      {
+        "key": "basel",
+        "name": "Basel",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-basel",
+        "count": 0,
+        "added": 906,
+        "updated": 854,
+        "removed": 0
+      },
+      {
+        "key": "bern",
+        "name": "Bern",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-bern",
+        "count": 0,
+        "added": 852,
+        "updated": 729,
+        "removed": 0
+      },
+      {
+        "key": "ticino",
+        "name": "Ticino",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-ticino",
+        "count": 0,
+        "added": 416,
+        "updated": 131,
+        "removed": 594
+      },
+      {
+        "key": "st-gallen",
+        "name": "St. Gallen",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-st-gallen",
+        "count": 0,
+        "added": 348,
+        "updated": 214,
+        "removed": 0
+      },
+      {
+        "key": "winterthur",
+        "name": "Winterthur",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-winterthur",
+        "count": 0,
+        "added": 317,
+        "updated": 243,
+        "removed": 0
+      },
+      {
+        "key": "luzern",
+        "name": "Luzern",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-luzern",
+        "count": 0,
+        "added": 264,
+        "updated": 348,
+        "removed": 0
+      },
+      {
+        "key": "geneve",
+        "name": "Genève",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-geneve",
+        "count": 0,
+        "added": 252,
+        "updated": 215,
+        "removed": 0
+      }
+    ],
+    "topTitlesAdded30d": [
+      {
+        "key": "venditore-in-food",
+        "name": "Venditore: in Food",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-venditore-in-food",
+        "count": 0,
+        "added": 194,
+        "updated": 27,
+        "removed": 0
+      },
+      {
+        "key": "assistente-alle-vendite-alimentari",
+        "name": "Assistente alle vendite alimentari",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-assistente-alle-vendite-alimentari",
+        "count": 0,
+        "added": 136,
+        "updated": 101,
+        "removed": 0
+      },
+      {
+        "key": "venditore",
+        "name": "Venditore*",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-venditore",
+        "count": 0,
+        "added": 102,
+        "updated": 53,
+        "removed": 0
+      },
+      {
+        "key": "detailhandelsfachfrau-mann-cfc-gestalten-von-einkaufserlebnissen",
+        "name": "Detailhandelsfachfrau:mann CFC \"Gestalten von Einkaufserlebnissen\"",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-detailhandelsfachfrau-mann-cfc-gestalten-von-einkaufserlebnissen",
+        "count": 0,
+        "added": 93,
+        "updated": 0,
+        "removed": 0
+      },
+      {
+        "key": "venditore-in-cassa-servizi",
+        "name": "Venditore:in cassa/servizi",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-venditore-in-cassa-servizi",
+        "count": 0,
+        "added": 82,
+        "updated": 0,
+        "removed": 0
+      },
+      {
+        "key": "tirocinio-di-orientamento-professionale",
+        "name": "Tirocinio di orientamento professionale",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-tirocinio-di-orientamento-professionale",
+        "count": 0,
+        "added": 81,
+        "updated": 0,
+        "removed": 0
+      },
+      {
+        "key": "rivenditore-man",
+        "name": "Rivenditore:man",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-rivenditore-man",
+        "count": 0,
+        "added": 79,
+        "updated": 0,
+        "removed": 0
+      },
+      {
+        "key": "specialista-assistente-nel-commercio-al-dettaglio",
+        "name": "Specialista / assistente nel commercio al dettaglio",
+        "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-specialista-assistente-nel-commercio-al-dettaglio",
+        "count": 0,
+        "added": 75,
+        "updated": 0,
+        "removed": 0
+      }
+    ]
+  },
+  "salary": {
+    "coverage": {
+      "jobsWithSalary": 13097,
+      "coveragePct": 100,
+      "avgMin": 66053,
+      "avgMax": 101522,
+      "avgMid": 83787,
+      "medianMid": 81000
+    },
+    "leaders": {
+      "topSalaryCompanies": [
+        {
+          "key": "wurth-international",
+          "name": "Würth International",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-wurth-international",
+          "count": 1,
+          "avgMin": 165000,
+          "avgMax": 290000,
+          "avgMid": 227500,
+          "weightedSalary": 177500
+        },
+        {
+          "key": "abb-svizzera-sede-ticino",
+          "name": "ABB Svizzera (sede Ticino)",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-abb-svizzera-sede-ticino",
+          "count": 16,
+          "avgMin": 102438,
+          "avgMax": 177719,
+          "avgMid": 140078,
+          "weightedSalary": 140078
+        },
+        {
+          "key": "migros-bank",
+          "name": "Migros Bank",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-migros-bank",
+          "count": 10,
+          "avgMin": 101700,
+          "avgMax": 175600,
+          "avgMid": 138650,
+          "weightedSalary": 138650
+        },
+        {
+          "key": "em-microelectronic-marin-ltd",
+          "name": "EM Microelectronic-Marin Ltd",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-em-microelectronic-marin-ltd",
+          "count": 2,
+          "avgMin": 118500,
+          "avgMax": 191000,
+          "avgMid": 154750,
+          "weightedSalary": 133000
+        },
+        {
+          "key": "banca-del-sempione",
+          "name": "Banca del Sempione",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-banca-del-sempione",
+          "count": 4,
+          "avgMin": 99625,
+          "avgMax": 174125,
+          "avgMid": 136875,
+          "weightedSalary": 129425
+        },
+        {
+          "key": "tecan",
+          "name": "Tecan",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-tecan",
+          "count": 12,
+          "avgMin": 94167,
+          "avgMax": 150250,
+          "avgMid": 122208,
+          "weightedSalary": 122208
+        },
+        {
+          "key": "corner-banca",
+          "name": "Cornèr Banca",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-corner-banca",
+          "count": 12,
+          "avgMin": 92125,
+          "avgMax": 150000,
+          "avgMid": 121063,
+          "weightedSalary": 121063
+        },
+        {
+          "key": "coop-ristorante",
+          "name": "Coop Ristorante",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/azienda-coop-ristorante",
+          "count": 37,
+          "avgMin": 85500,
+          "avgMax": 150000,
+          "avgMid": 117750,
+          "weightedSalary": 117750
+        }
+      ],
+      "topSalaryLocations": [
+        {
+          "key": "renens-vd",
+          "name": "Renens (VD)",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-renens-vd",
+          "count": 5,
+          "avgMin": 90100,
+          "avgMax": 150700,
+          "avgMid": 120400,
+          "weightedSalary": 120400
+        },
+        {
+          "key": "le-noirmont",
+          "name": "Le Noirmont",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-le-noirmont",
+          "count": 7,
+          "avgMin": 93286,
+          "avgMax": 130214,
+          "avgMid": 111750,
+          "weightedSalary": 111750
+        },
+        {
+          "key": "gisikon",
+          "name": "Gisikon",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-gisikon",
+          "count": 5,
+          "avgMin": 88500,
+          "avgMax": 134600,
+          "avgMid": 111550,
+          "weightedSalary": 111550
+        },
+        {
+          "key": "kerzers",
+          "name": "Kerzers",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-kerzers",
+          "count": 54,
+          "avgMin": 81652,
+          "avgMax": 141241,
+          "avgMid": 111446,
+          "weightedSalary": 111446
+        },
+        {
+          "key": "weiningen-zh",
+          "name": "Weiningen ZH",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-weiningen-zh",
+          "count": 1,
+          "avgMin": 101500,
+          "avgMax": 154000,
+          "avgMid": 127750,
+          "weightedSalary": 106750
+        },
+        {
+          "key": "zurich-zurich",
+          "name": "Zürich, Zürich",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-zurich-zurich",
+          "count": 12,
+          "avgMin": 83083,
+          "avgMax": 130333,
+          "avgMid": 106708,
+          "weightedSalary": 106708
+        },
+        {
+          "key": "berne",
+          "name": "Berne",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-berne",
+          "count": 7,
+          "avgMin": 80857,
+          "avgMax": 129429,
+          "avgMid": 105143,
+          "weightedSalary": 105143
+        },
+        {
+          "key": "zurich-zurich-switzerland",
+          "name": "Zürich, Zurich, Switzerland",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-zurich-zurich-switzerland",
+          "count": 18,
+          "avgMin": 83111,
+          "avgMax": 126083,
+          "avgMid": 104597,
+          "weightedSalary": 104597
+        }
+      ],
+      "topSalaryTitles": [
+        {
+          "key": "leiter-consumer-finanza-e-inkasso",
+          "name": "Leiter Consumer Finanza e Inkasso",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-leiter-consumer-finanza-e-inkasso",
+          "count": 1,
+          "avgMin": 189000,
+          "avgMax": 331500,
+          "avgMid": 260250,
+          "weightedSalary": 203250
+        },
+        {
+          "key": "responsabile-customer-analytics",
+          "name": "Responsabile Customer Analytics",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-responsabile-customer-analytics",
+          "count": 1,
+          "avgMin": 189000,
+          "avgMax": 331500,
+          "avgMid": 260250,
+          "weightedSalary": 203250
+        },
+        {
+          "key": "technical-account-manager-soluzioni-visual-slam",
+          "name": "Technical Account Manager - Soluzioni Visual SLAM",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-technical-account-manager-soluzioni-visual-slam",
+          "count": 1,
+          "avgMin": 189000,
+          "avgMax": 331500,
+          "avgMid": 260250,
+          "weightedSalary": 203250
+        },
+        {
+          "key": "global-responsabile-quality-motion-traction-location-europe",
+          "name": "Global Responsabile Quality, Motion Traction (Location: Europe)",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-global-responsabile-quality-motion-traction-location-europe",
+          "count": 1,
+          "avgMin": 178000,
+          "avgMax": 313000,
+          "avgMid": 245500,
+          "weightedSalary": 191500
+        },
+        {
+          "key": "leiter-in-vendita-national",
+          "name": "Leiter*in vendita National",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-leiter-in-vendita-national",
+          "count": 1,
+          "avgMin": 178000,
+          "avgMax": 313000,
+          "avgMid": 245500,
+          "weightedSalary": 191500
+        },
+        {
+          "key": "responsabile-dell-assicurazione-qualita-manifattura-orologeria-svizzera-eta-sa",
+          "name": "Responsabile dell'Assicurazione Qualità | Manifattura Orologeria Svizzera | ETA SA",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-responsabile-dell-assicurazione-qualita-manifattura-orologeria-svizzera-eta-sa",
+          "count": 1,
+          "avgMin": 175000,
+          "avgMax": 307500,
+          "avgMid": 241250,
+          "weightedSalary": 188250
+        },
+        {
+          "key": "responsabile-della-logistica-dei-progetti-maggiori",
+          "name": "Responsabile della Logistica dei Progetti Maggiori",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-responsabile-della-logistica-dei-progetti-maggiori",
+          "count": 1,
+          "avgMin": 175000,
+          "avgMax": 307500,
+          "avgMid": 241250,
+          "weightedSalary": 188250
+        },
+        {
+          "key": "persona-responsabile-60-80",
+          "name": "Persona responsabile 60-80 %",
+          "url": "https://frontaliereticino.ch/cerca-lavoro-ticino/ricerca-persona-responsabile-60-80",
+          "count": 1,
+          "avgMin": 174500,
+          "avgMax": 306000,
+          "avgMid": 240250,
+          "weightedSalary": 187650
+        }
+      ]
+    }
+  }
+}

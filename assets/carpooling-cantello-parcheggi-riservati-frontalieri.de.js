@@ -1,0 +1,57 @@
+const e={"blog.article.carpooling-cantello-parcheggi-riservati-frontalieri.body1":`## Kurzinfo
+- **11 Stellplätze für Carpooler** am Bahnhof Cantello Gaggiolo
+- Projektstart am 12. Juni 2026
+- Kostenloser Parken während der Pilotphase (Gültigkeit geplant bis 31. Dezember 2027)
+
+## Wichtige Fakten
+- Was: Initiativ für nachhaltige Mobilität mit eigener Parkzone, Teil des regionalen Mobilitätsplans 2025–2030 der Region Lombardien
+- Wann: Offiziell am 12. Juni 2026 gestartet; vierteljährliche Überwachung zur Bewertung des Einflusses
+- Wo: P+R-Parkplatz in Cantello Gaggiolo (Provinz Varese), strategischer Knotenpunkt für Pendler in Richtung Schweizer Gemeinden wie Lugano, Mendrisio und Caslano
+- Wer: Gemeinde Cantello und Plattform BePooler, mit technischer Unterstützung der Provinz Varese
+- Betrag: Keine Parkkosten während der Pilotphase; nach 2027 maximal 2,50 €/Tag (durch Regionaldekret zu genehmigen)
+
+Die Gemeinde Cantello hat ein Pilotprojekt gestartet, um die Mobilität von rund 1.200 Pendler:innen zu verbessern, die täglich die Grenze in den Kanton Tessin überqueren, wobei 65 % das Auto individuell nutzen. Die Initiative, in Zusammenarbeit mit BePooler, bietet 11 exklusive Parkplätze für Arbeitnehmer:innen, die das Auto teilen, und reduziert laut einer Erhebung von 2025 das unregelmäßige Parken in der Bahnhofszone um 30 %. Der P+R-Bereich wurde am 12. Juni 2026 im Austauschparkplatz des Bahnhofs in Betrieb genommen, mit einem Anfangsinvestition von 48.000 € (zu 75 % durch die Region Lombardien über den Aufruf 2024/DG7 finanziert). Die Gemeindeverwaltung betont, dass das Projekt der Regionalen Gesetzgebung Lombardien Nr. 16/2023 entspricht, die mit Zuschüssen von bis zu 500 € die gemeinsame Nutzung von Fahrzeugen fördert. Laut Daten des Kantons Tessin waren 2025 23.450 Grenzgänger aus dem Varesetto registriert, ein Anstieg von 12 % gegenüber 2020. Davon passieren 40 % Cantello Gaggiolo, was zu Verkehrsengpässen und ungenehmigtem Parken führt.
+
+### So funktioniert es
+1. Registrierung bei BePooler: Pflicht mit Personalausweis und Kennzeichen
+2. Teilen der Route: Mindestens 2 Passagiere erforderlich für Zugang zu den reservierten Plätzen
+3. Zugangszeiten: 06:00–09:00 und 16:00–19:00 (Überwachung per ANPR-Kameras)
+4. Monitoring: BePooler-App verfolgt gesparte Kilometer und reduzierten CO₂-Ausstoß (Ziel: -15 Tonnen/Jahr)
+
+### Szenarienvergleich
+- Vorher: 70 % der Pendler parkten auf der Straße oder in nicht ausgestatteten Bereichen
+- Danach: 11 reservierte Plätze + 50 allgemeine Plätze, die 2027 erweitert werden (Projekt 'Sichere Parkplätze')
+- Beispiel: In Mendrisio hat ein ähnliches Schema den Verkehr innerhalb von zwei Jahren um 18 % reduziert
+
+> „Carpooling ist nicht nur ein Mittel, um den Verkehr zu reduzieren, sondern ein Modell für Gemeinschaft“, sagte Bürgermeister Luca Ferrari von Cantello.
+
+### Operationscheckliste
+✅ App auf dem Smartphone heruntergeladen
+✅ Profil mit offiziellen Dokumenten verifiziert
+✅ Route mit mindestens einem Reisepartner geteilt
+✅ Ankommen bis 08:30 Uhr, um Zugang zu gewährleisten
+
+Das Projekt ist ein konkreter Schritt zum EU-Ziel, die Emissionen bis 2030 um 55 % zu reduzieren, indem es den Eisenbahnbetrieb und den geteilten Transport verbindet.`,"blog.article.carpooling-cantello-parcheggi-riservati-frontalieri.body2":`## Auswirkungen auf Grenzgänger im Kanton Tessin
+Das Cantello-Projekt führt einen Paradigmenwechsel im transgrenzenden Pendeln ein, indem es eine Alternative zum individuellen Autoverkehr bietet. Für Arbeitnehmer, die täglich vom Varesino in den Kanton Tessin pendeln, stellt die Initiative eine Chance dar, um:
+- Kosten für das Parken zu sparen: Das kostenlose Parken während der Testphase (gültig bis zum 31. Dezember 2023, wie im Gemeindebeschluss Nr. 45/2022 festgelegt) reduziert die Nebenkosten des Pendelns. Als Beispiel gibt ein Grenzgänger, der täglich in Chiasso parkt, durchschnittlich 12 CHF/Tag für private Parkplätze aus, was 240 CHF pro Monat entspricht. Mit dem Cantello-Projekt entfällt dieser Posten.
+- Die Reisezeiten zu optimieren: Der Rückgang des Fahrzeugverkehrs könnte zu weniger Staus an den Grenzübergängen Brogeda oder Chiasso führen. Ein Pendler von Varese nach Lugano (durchschnittliche Entfernung 45 km) würde etwa 25 Minuten pro Tag sparen, was 8 Stunden pro Monat entspricht, dank der Priorität für Fahrzeuge mit zwei oder mehr Insassen auf der A9 zwischen Cassinetta di Biandronno und der Grenze.
+- Einen Beitrag zur ökologischen Nachhaltigkeit zu leisten: Durch Fahrgemeinschaften und geringere CO₂-Emissionen, messbar über die BePooler-Plattform. Laut Daten von 2023 emittiert ein Einzelfahrzeug 0,2 kg CO₂/km. Ein Carpooler, der die Strecke mit einem weiteren Passagier teilt, reduziert die Emissionen um 40 %, was 1,8 kg CO₂/Tag für eine 45‑km‑Strecke entspricht.
+
+Laut Mirko Baruffini, Geschäftsführer von BePooler, basiert Carpooling auf vier Säulen: wirtschaftliche Ersparnis, Zeitoptimierung, Stressreduktion und stärkere Sozialisation. Dieses Modell passt zu den Bedürfnissen der Grenzgänger, die oft lange Strecken und hohe Transportkosten bewältigen müssen. Der Bereich für Carpooler liegt in einer strategischen Lage: Cantello Gaggiolo ist ein wichtiger Knotenpunkt für jene, die nach Lugano oder andere Städte im Tessin fahren, dank der Nähe zur Eisenbahnlinie und zur A9.
+
+### Operative Checkliste für Grenzgänger
+1. **Registrierung**: Melden Sie sich auf der BePooler-Plattform mit gültigem Ausweis und G-Bewilligung an.
+2. Routenwahl: Wählen Sie den Abholpunkt (z. B. Parkplatz Cantello Gaggiolo) und das Ziel (z. B. Bahnhof Lugano oder Mendrisio).
+3. Reise teilen: Akzeptieren Sie Anfragen anderer Nutzer über die App, indem Sie die Zeitkompatibilität prüfen.
+4. Monitoring: Nutzen Sie das integrierte Dashboard, um wirtschaftliche Einsparungen und Emissionsreduktionen zu verfolgen.
+
+Die vorgeschlagene Lösung könnte zukünftig in anderen Grenzregionen repliziert werden, um die grenzüberschreitende nachhaltige Mobilität zu verbessern. Ein Vergleich praktischer Szenarien zeigt, dass ein Grenzgänger aus Saronno (MB) nach Lugano ohne Carpooling jährlich 8 000 CHF für Treibstoff und 3 000 CHF für Parkplätze ausgibt, während die Cantello-Methode die Kosten auf 60 % senkt, was eine Gesamtersparnis von 5 400 CHF bedeutet.
+
+> "Carpooling ist nicht nur ein Mittel zum Sparen, sondern eine Wahl der Zivilisation", erklärt Baruffini.
+
+⚠️ Hinweis: Um das kostenlose Parken zu nutzen, muss das Ticket innerhalb von 30 Minuten nach Ankunft mit der App bestätigt werden.
+
+## Nützliche Tools zum Schutz Ihres Nettolohns
+Um Wechselkursverluste zu reduzieren, vergleichen Sie [CHF-EUR-Wechseloptionen](nav:exchange) und [Banken für Grenzgänger](nav:banks).`,"blog.article.carpooling-cantello-parcheggi-riservati-frontalieri.body3":`## So teilnehmen Sie am Projekt Um einen der 11 reservierten Parkplätze in Cantello Gaggiolo zu erhalten, folgen Sie diesem detaillierten Verfahren: 1. **Registrierung auf der Plattform BePooler**: Gehen Sie zur Website [bepooler.ch](https://www.bepooler.ch) und erstellen Sie ein Benutzerprofil mit Angaben wie physische Adresse, Autonummer und durchschnittliche Fahrtzeiten. Die Gemeinde Cantello Gaggiolo hat bis März 2024 217 Registrierungen erfasst, ein Plus von 35 % gegenüber dem vorherigen Quartal. 2. Zertifizierung des Carpoolings: Nutzen Sie die App, um die gemeinsam zurückgelegten Kilometer zu tracken. Jede Fahrt muss von mindestens einem anderen registrierten Nutzer per QR-Code bestätigt werden. Beispiel: Ein Pendler aus Balgna (5 km von Cantello entfernt), der dreimal wöchentlich das Auto teilt, erhält ein digitales Zertifikat, das eine monatliche CO₂-Reduzierung von 12 kg bescheinigt, berechnet mit dem *Carpooling Emission Factor* (0,18 kg CO₂/km pro Fahrzeug). 3. Antrag auf Parkplatz: Reservieren Sie den Parkplatz über die Plattform spätestens 24 Stunden im Voraus und geben Sie die geplanten Zuechtungs- (z.B. 07:30) und Abfahrzeiten (z.B. 18:00) an. Die Plätze sind ausschließlich für Fahrten in den Kanton Tessin reserviert, mit Priorität für Grenzgänger aus Gemeinden wie Menaggio (CO) oder Chiasso (TI). 4. Überprüfung der Fahrtteilung: Das System vergleicht GPS-Daten und Teillnahme-Codes. Wird die Fahrt nicht validiert, wird der Parkplatz für 7 Tage gesperrt. ### Vorteile für Grenzgänger - Wirtschaftlicher Aufwand: Ein Pendler aus Como (IT), der täglich 60 km zurücklegt und das Auto mit einer Person teilt, spart etwa 65 CHF/Monat an Spritkosten (Berechnung: 30 CHF/Woche für Einzelfahrer vs. 15 CHF bei Fahrtteilung, exklusive Parkgebühr). Der reduzierte Parkplatzpreis (10 CHF/Tag vs. Standard 20 CHF) ergänzt additional 100 CHF/Monat Sparpotenzial. - Umweltverfolgung: Die Plattform quantifiziert die gesparten Kilometer (z.B. 1.200 km/Jahr für einen Grenzgänger, der dreimal wöchentlich carpoolt) und die CO₂-Reduzierung, mit monatlichen Reports per E-Mail. ### Weitere Schritte nach der Pilotphase Das Projekt, in Zusammenarbeit mit dem Amt für Mobilität des Kantons Tessin (Gesetz 12/2022 über nachhaltige Mobilität), sieht eine Evaluation bis Juni 2025 vor. Wenn die Daten das Ziel von 500 geteilten Fahrten/Monat überschreiten, könnte die Initiative auf Gemeinden wie Mendrisio oder Caslano ausgedehnt werden, mit steuerlichen Vorteilen (z.B. 15 % Abzug der Fahrzeugsteuer für zertifizierte Carpooler). ### Praktische Checklist für Grenzgänger - ✅ Stellen Sie sicher, dass Ihr Auto auf BePooler mit aktueller Nummer und Versicherungsdaten registriert ist. - ✅ Reservieren Sie den Parkplatz spätestens um 22:00 Uhr des Vortags. - ✅ Teilen Sie die Fahrt mit mindestens einem anderen registrierten Nutzer. - ✅ Laden Sie das monatliche Zertifikat herunter, um steuerliche Vorteile zu beantragen (falls verfügbar). ### Vergleich praktischer Szenarien | Szenario | Monatskosten (Benzin + Parkplatz) | CO₂-Emissionen (kg) | |------------------------|------------------------------------------|-----------------| | Einzelfahrt (60 km/Tag) | 240 CHF | 96 kg | | Carpooling (gleicher Strecke) | 120 CHF + 50 CHF (reduzierter Parkplatz) | 48 kg | > „42 % der Grenzgänger im Tessin interessieren sich für Carpooling-Lösungen, aber nur 12 % nutzen sie regelmäßig“, betont der Leiter des Amtes für Mobilität. CTA: Nutzen Sie unseren [Kostenrechner für Pendlerkosten](nav:calculator), um Ausgaben zwischen Einzelfahrten und Carpooling zu vergleichen, einschließlich Parameter wie Streckenlänge, Anzahl der Passagiere und Benzinpreis (z.B. 1,85 CHF/Liter im Januar 2024).
+
+*Quelle: [varesenews.it](https://www.varesenews.it/2026/06/a-cantello-parcheggi-riservati-ai-pendolari-che-condividono-lauto-parte-il-progetto-bepooler-alla-stazione-di-gaggiolo/2605453/)*`,"blog.article.carpooling-cantello-parcheggi-riservati-frontalieri.faq":'[{"q":"Wie lange sind die reservierten Parkplätze gültig?","a":"Die 11 Parkplätze sind während der Testphase kostenlos nutzbar. Die genaue Dauer ist noch nicht festgelegt, aber die Gemeinde wird über mögliche Aktualisierungen informieren."},{"q":"Ist ein Zertifikat erforderlich, um den Parkplatz zu nutzen?","a":"Ja, es ist erforderlich, die Plattform BePooler zu verwenden, um die Kilometer im Carpooling zu verfolgen und ein digitales Zertifikat zu generieren, das die gemeinsame Nutzung der Fahrt bestätigt."},{"q":"Ist das Projekt auch für Nicht-Grenzgänger offen?","a":"Ja, die Initiative ist für alle Nutzer offen, wird aber insbesondere für Pendler, die sich in die Schweiz bewegen, wie z. B. aus dem Varesetto und dem Olgiatese, beworben."}]'};export{e as default};

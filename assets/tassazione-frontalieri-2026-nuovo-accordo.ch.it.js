@@ -1,0 +1,56 @@
+const i={"blog.article.tassazione-frontalieri-2026-nuovo-accordo.body1":`## In breve
+- Nuove regole fiscali per frontalieri dal 2026
+- Differenze tra vecchi e nuovi frontalieri
+- Franchigia e credito d'imposta con scenari ipotetici
+
+## Fatti chiave
+- **Cosa**: Nuove regole fiscali per i frontalieri
+- Quando: Dal 1° gennaio 2026
+- Dove: Svizzera e Italia
+- Chi: Frontalieri che lavorano in Svizzera e risiedono in Italia
+- Importo: Franchigia e credito d'imposta variabili
+
+Dal 1° gennaio 2026, entreranno in vigore le nuove regole fiscali per i frontalieri che lavorano in Svizzera e risiedono in Italia. Queste regole sono state definite dal nuovo accordo fiscale firmato il 23 dicembre 2020 ed entrato in vigore il 1° gennaio 2024. Le principali novità riguardano le differenze tra vecchi e nuovi frontalieri, la franchigia e il credito d'imposta.
+
+### Differenze tra vecchi e nuovi frontalieri
+
+I frontalieri che hanno iniziato a lavorare in Svizzera prima del 1° gennaio 2024 sono considerati 'vecchi frontalieri' e continueranno a essere tassati secondo le regole precedenti. I 'nuovi frontalieri', invece, quelli che hanno iniziato a lavorare dal 1° gennaio 2024 in poi, saranno soggetti alle nuove regole fiscali.
+
+### Franchigia e credito d'imposta
+
+La franchigia è l'importo esente da tassazione in Italia. Per i nuovi frontalieri, la franchigia è stata aumentata, il che significa che una parte maggiore del loro reddito non sarà tassata in Italia. Il credito d'imposta, invece, è l'importo che può essere detratto dalle imposte dovute in Svizzera.`,"blog.article.tassazione-frontalieri-2026-nuovo-accordo.body2":`## Analisi pratica delle nuove regole fiscali
+
+Le nuove regole fiscali per i frontalieri avranno un impatto significativo sulla loro tassazione. Per capire meglio come funzionano, è utile fare alcuni scenari ipotetici.
+
+### Scenario 1: Frontaliere con reddito medio
+
+Un frontaliere con un reddito medio potrebbe beneficiare maggiormente della nuova franchigia. Ad esempio, se prima veniva tassato su un reddito di 50.000 CHF, con la nuova franchigia potrebbe essere tassato solo su 45.000 CHF, risparmiando così sulle imposte italiane.
+
+### Scenario 2: Frontaliere con reddito alto
+
+Per un frontaliere con un reddito più alto, il credito d'imposta potrebbe essere più vantaggioso. Ad esempio, se prima pagava 10.000 CHF di imposte in Svizzera, con il nuovo credito d'imposta potrebbe detrarre 2.000 CHF, riducendo così il suo carico fiscale complessivo.
+
+### Confronto con la situazione precedente
+
+Prima del nuovo accordo fiscale, i frontalieri erano tassati sia in Svizzera che in Italia, senza possibilità di detrarre le imposte pagate in un paese dall'altro. Con le nuove regole, invece, c'è una maggiore coordinazione tra i due sistemi fiscali, il che dovrebbe ridurre il rischio di doppia tassazione.
+
+## Tool utili per il tuo caso
+Per verificare in modo pratico il tuo scenario entro/oltre 20 km, usa il [calcolatore stipendio netto](nav:calculator) e la [guida dichiarazione redditi](nav:tax-return).`,"blog.article.tassazione-frontalieri-2026-nuovo-accordo.body3":`## Cosa fare per adeguarsi alle nuove regole fiscali
+
+Per adeguarsi alle nuove regole fiscali, i frontalieri dovrebbero seguire alcuni passaggi pratici. Ecco una guida passo-passo:
+
+### Passaggio 1: Verifica dello status
+
+Il primo passo è verificare se si è considerati 'vecchi frontalieri' o 'nuovi frontalieri'. Questo dipende dalla data di inizio del lavoro in Svizzera. Chi ha iniziato prima del 1° gennaio 2024 è un 'vecchio frontaliere', chi ha iniziato dopo è un 'nuovo frontaliere'.
+
+### Passaggio 2: Calcolo della franchigia
+
+Il secondo passo è calcolare la nuova franchigia. Per fare questo, è utile consultare un esperto fiscale o utilizzare un calcolatore online. La franchigia dipende dal reddito e dalla situazione familiare.
+
+### Passaggio 3: Applicazione del credito d'imposta
+
+Il terzo passo è applicare il credito d'imposta. Anche in questo caso, è utile consultare un esperto fiscale o utilizzare un calcolatore online. Il credito d'imposta dipende dalle imposte pagate in Svizzera e dalla franchigia applicata in Italia.
+
+### Utilizza il nostro calcolatore
+
+Per semplificare questi calcoli, puoi utilizzare il nostro [calcolatore di tassazione per frontalieri](nav:calculator). Questo strumento ti aiuterà a capire meglio come le nuove regole fiscali influenzeranno la tua situazione personale.`,"blog.article.tassazione-frontalieri-2026-nuovo-accordo.faq":`[{"q":"Quali sono le principali differenze tra vecchi e nuovi frontalieri?","a":"I 'vecchi frontalieri' sono quelli che hanno iniziato a lavorare in Svizzera prima del 1° gennaio 2024 e continueranno a essere tassati secondo le regole precedenti. I 'nuovi frontalieri' sono quelli che hanno iniziato a lavorare dal 1° gennaio 2024 in poi e saranno soggetti alle nuove regole fiscali."},{"q":"Come funziona la franchigia per i nuovi frontalieri?","a":"La franchigia è l'importo esente da tassazione in Italia. Per i nuovi frontalieri, la franchigia è stata aumentata, il che significa che una parte maggiore del loro reddito non sarà tassata in Italia."},{"q":"Cos'è il credito d'imposta e come funziona?","a":"Il credito d'imposta è l'importo che può essere detratto dalle imposte dovute in Svizzera. Questo credito dipende dalle imposte pagate in Svizzera e dalla franchigia applicata in Italia."}]`};export{i as default};

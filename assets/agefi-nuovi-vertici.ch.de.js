@@ -1,0 +1,40 @@
+const e={"blog.article.agefi-nuovi-vertici.body1":`## Kurz gefasst
+- Frédéric Lelièvre verlässt L'Agefi für Le Temps
+- Jonas Follonier wird Chefredaktor von L'Agefi
+- Olivier Bloch übernimmt die Leitung von L'Agefi
+
+## Schlüssel Fakten
+- **Was**: Wechsel an der Spitze von L'Agefi
+- Wann: September 2023
+- Wo: L'Agefi, französischsprachige Schweiz
+- Wer: Frédéric Lelièvre, Jonas Follonier, Olivier Bloch
+- Betrag: Nicht spezifiziert
+
+Nach sechs Jahren an der Spitze von L'Agefi hat Frédéric Lelièvre entschieden, seine Funktionen als Chefredaktor und CEO aufzugeben, um zu Le Temps zu wechseln, wo er ein neues Projekt im Bereich Finanzen und Wirtschaft leiten wird. Dieser Wechsel an der Spitze bringt zwei Ernennungen innerhalb von L'Agefi mit sich: Jonas Follonier, derzeitiger Korrespondent im Bundeshaus in Bern, wird Chefredaktor, während Olivier Bloch die Leitung übernimmt. L'Agefi, die Schweizer Wirtschafts- und Finanzzeitung in französischer Sprache, ist hauptsächlich in der französischsprachigen Schweiz präsent, mit Lesern auch in Genf, Lausanne und Neuenburg. Die Zeitschrift ist bekannt für ihre umfassende Berichterstattung über Finanznachrichten und Vorschriften, wie zum Beispiel das Gesetz über nachhaltige Finanzen, das 2022 in Kraft getreten ist und Transparenzpflichten für Unternehmen mit mehr als 500 Mitarbeitern und einem Umsatz von über 40 Millionen Franken eingeführt hat.
+> «L'Agefi wird weiterhin ein Referenzpunkt für Finanznachrichten in der französischsprachigen Schweiz sein», erklärte Olivier Bloch.
+L'Agefi steht nun vor der Herausforderung, neue Abonnenten zu gewinnen, um seine redaktionelle Tätigkeit in einem immer wettbewerbsintensiveren Marktumfeld zu unterstützen.`,"blog.article.agefi-nuovi-vertici.body2":`### Neue Herausforderungen für L'Agefi
+Der Übergang an der Spitze von L'Agefi leitet eine Phase der Reflexion ein, um die Entwicklung der Zeitung und ihre Positionierung am Markt zu stärken. Die Prioritäten sind die Gewährleistung der Stabilität und Qualität der Zeitung, die über eine Online-Plattform verfügt und zweimal wöchentlich in gedruckter Form erscheint. Antoine Hubert, Eigentümer von L'Agefi, hat angekündigt, auf der Suche nach neuen Unterstützern für die Zeitung zu sein und dabei Optionen wie Stiftungen, Vereine oder neue Investoren zu prüfen.
+
+> «Die Suche nach neuen Gesellschaftern ist motiviert durch den Willen, das Projekt nicht allein weiterzuführen, und andere Personen zusammenzubringen, die eine unabhängige wirtschaftliche und liberale Stimme in der Romandie für notwendig erachten», betonte Hubert.
+
+Hubert beabsichtigt, die Präsenz von L'Agefi in der Deutschschweiz zu stärken, wo die Zeitung bereits über ein gewisses Publikum verfügt, insbesondere in Zürich, und die Aktivitäten der Zeitung zu diversifizieren, indem er Möglichkeiten bei Veranstaltungen erkundet, wie beispielsweise die Teilnahme an Wirtschaftsmessen in Basel und Genf, bei Dienstleistungen für Unternehmen und bei spezialisierten Inhalten. Die Romandie stellt einen wichtigen Markt für L'Agefi dar, wobei Kantone wie Genf und Waadt erheblich zum nationalen BIP beitragen.
+
+Die Zeitung könnte zudem von den Bestimmungen des Bundesgesetzes über die Medienförderung (MFG), das am 1. März 2023 in Kraft getreten ist, profitieren, das finanzielle Hilfen für unabhängige Medien bis zu maximal 50 Millionen Franken pro Jahr vorsieht. L'Agefi könnte auch von den Initiativen zur Unterstützung lokaler und regionaler Medien profitieren, die von verschiedenen Schweizer Stiftungen gefördert werden. Zu den von Hubert identifizierten operativen Prioritäten gehören:
+- Stärkung der Online-Präsenz und auf Social Media;
+- Diversifizierung der Einnahmequellen durch Beratungsdienstleistungen und Veranstaltungen;
+- Verbesserung der wirtschaftlichen Nachrichtenberichterstattung auf Kantonsebene.
+
+Diese Schritte könnten L'Agefi dabei helfen, seine Position in der Schweizer Medienlandschaft zu festigen und seine redaktionelle Unabhängigkeit zu bewahren.
+
+## Nützliche Tools zum Schutz Ihres Nettolohns
+Um Wechselkursverluste zu reduzieren, vergleichen Sie [CHF-EUR-Wechseloptionen](nav:exchange) und [Banken für Grenzgänger](nav:banks).`,"blog.article.agefi-nuovi-vertici.body3":`## Zukunftsperspektiven
+L'Agefi ist nicht nur eine Zeitung, sondern strebt danach, eine Plattform zu werden, die wirtschaftliche, politische und unternehmerische Akteure zusammenbringt. Antoine Hubert hat bestätigt, dass er Gespräche mit Le Temps geführt hat, um gemeinsam etwas aufzubauen, aber diese sind aufgrund unterschiedlicher Visionen zu nichts geführt. Die Herausforderung für L'Agefi wird darin bestehen, seine liberale und unabhängige redaktionelle Linie beizubehalten, während es sich neuen Partnern und Wachstumschancen öffnet. Zum Beispiel hat die kürzlich erfolgte Revision des Kartellgesetzes (KG), die am 1. Dezember 2021 in Kraft getreten ist, niedrigere Kontrollschwellen für Unternehmenskonzentrationen mit einem kombinierten Umsatz von 100 Millionen Schweizer Franken eingeführt.
+- Die Öffnung gegenüber neuen Partnern könnte durch Kooperationen mit Finanzinstitutionen wie der Schweizerischen Nationalbank in Zürich oder der Zürcher Kantonalbank erfolgen.
+> "Unsere redaktionelle Unabhängigkeit ist grundlegend, aber es ist ebenso wichtig, offen für Chancen zu sein, die unsere Position auf dem Schweizer Markt stärken können", hat Antoine Hubert erklärt.
+Um über die neuesten wirtschaftlichen und finanziellen Entwicklungen in der Schweiz auf dem Laufenden zu bleiben, können Sie unseren Gehaltsrechner nutzen, um Ihre Einnahmen zu bewerten und Ihre persönliche Finanzplanung vorzunehmen, wobei Sie beispielsweise die steuerlichen Unterschiede zwischen Kantonen wie Zürich und Genf berücksichtigen.
+- Checkliste für die Planung Ihrer Finanzen:
+  - Bewerten Sie Ihre Nettoeinnahmen nach kantonalen Steuern
+  - Berücksichtigen Sie die Auswirkungen steuerrechtlicher Bestimmungen wie die Reform des Bundesgesetzes über die direkten Steuern
+  - Nutzen Sie Planungsinstrumente wie den Gehaltsrechner, um Ihre zukünftige finanzielle Situation vorherzusagen.
+
+*Quelle: [swissinfo.ch](https://www.swissinfo.ch/ita/l%27agefi%3a-ricambio-ai-vertici%2c-mentre-proprietario-cerca-nuovi-soci/91562868)*`,"blog.article.agefi-nuovi-vertici.faq":`[{"q":"Wer ist der neue Chefredaktor von L'Agefi?","a":"Jonas Follonier, derzeitiger Korrespondent im Bundeshaus, ist zum neuen Chefredaktor von L'Agefi geworden."},{"q":"Was ist das Ziel von Antoine Hubert für L'Agefi?","a":"Antoine Hubert will die Präsenz von L'Agefi in der Deutschschweiz stärken und die Aktivitäten der Zeitung diversifizieren, um neue Wachstumschancen zu erschließen."},{"q":"Warum hat Frédéric Lelièvre L'Agefi verlassen?","a":"Frédéric Lelièvre hat L'Agefi verlassen, um zu Le Temps zu wechseln, wo er ein neues Projekt im Bereich Finanzen und Wirtschaft leiten wird."}]`};export{e as default};

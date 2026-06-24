@@ -1,0 +1,1 @@
+import{x as o}from"./router.js";const a=["/images/brands/","/images/insurers/","/images/providers/","/images/logos/","/images/authors/","/images/publisher/"];function f(r){if(!r||r[0]!=="/")return r;let e=!1;for(const i of a)if(r.startsWith(i)){e=!0;break}if(!e)return r;const s=o();return s?s+r:r}export{f as c};

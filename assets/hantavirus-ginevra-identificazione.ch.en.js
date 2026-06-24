@@ -1,0 +1,82 @@
+const e={"blog.article.hantavirus-ginevra-identificazione.body1":`## In brief
+- The Geneva University Hospital has identified the hantavirus strain responsible for an epidemic outbreak on a cruise ship in May 2026.
+- The Andes strain is the only hantavirus known to be transmitted from human to human.
+- Identifying the viral species is crucial for understanding its transmission dynamics, severity, and origin.
+
+## Key facts
+- **What**: Identification of the hantavirus strain responsible for an epidemic outbreak.
+- When: May 2026.
+- Where: Geneva University Hospital (HUG).
+- Who: Francisco-Javier Perez Rodriguez, biologist heading the emerging viruses section of the laboratory.
+- Amount: Not specified.
+
+On May 4, 2026, an infected Swiss citizen was admitted to the University Hospital of Zurich (USZ). Here, blood samples, urine samples, and respiratory samples were taken using swabs similar to those used for Covid-19 tests. The samples were then sealed inside three distinct protective layers for transport, as per the protocol for handling viral pathogens.
+
+On the same day, the specimens were transported by car to the National Reference Center for Emerging Viral Infections (CRIVE) in Geneva, which is part of the HUG virology laboratory network. Established in 2005, the center operates under a mandate and is partially funded by the Federal Office of Public Health (FOPH) with the aim of diagnosing emerging viruses such as dengue, SARS, or Zika.
+
+### The identification process
+CRIVE is one of the four Swiss laboratories certified for the highest level of biological containment. The facility is equipped with pressure-sealed doors and impermeable walls; furthermore, the water supply and ventilation systems are entirely independent from the rest of the hospital complex and undergo repeated decontamination cycles, both before and after each use.
+
+The refrigerated samples containing the virus were opened inside biosafety cabinets: these are workstations equipped with special hoods designed to protect operators from contaminated air particles.
+
+Using the polymerase chain reaction (PCR), the same technique used for Covid, expert personnel extracted the viral genome from the sample. This procedure allowed the identification of the Andes strain, the only hantavirus known to be transmitted from human to human, although it requires close contact.
+
+### Implications for public health
+Identifying the viral species is crucial for understanding its transmission dynamics, severity, and origin. This discovery has provided the World Health Organization (WHO) with the necessary tools to better understand the mechanisms of the virus and to adopt the most appropriate measures to contain the outbreak.
+
+The Andes strain can trigger hantavirus pulmonary syndrome, a severe and potentially lethal disease that impairs respiratory function. Since May 2, the day the WHO was alerted, a total of 11 cases, including three deaths, have been reported among the passengers of the MV Hondius ship.`,"blog.article.hantavirus-ginevra-identificazione.body2":`## Practical analysis
+The identification of the hantavirus strain by the Geneva University Hospitals has important implications for cross-border workers who work in Switzerland and reside in Italy. The ability to quickly and accurately diagnose emerging viruses is crucial for public health, especially in a cross-border context where people's mobility is high.
+
+### Impact on cross-border workers
+Cross-border workers who work in Switzerland and reside in Italy could be exposed to similar risks as Swiss residents. Although the Andes strain transmission from person to person requires close contact, it highlights the importance of rigorous hygiene measures and safety protocols in the workplace.
+
+### Prevention measures
+Companies employing cross-border workers should consider implementing additional safety protocols, such as regular sanitization of work environments and promoting hygiene practices among employees. Additionally, it is essential that cross-border workers are informed about the symptoms of hantavirus and the measures to take in case of suspected infection.
+
+### Cross-border collaboration
+Collaboration between Swiss and Italian health authorities is essential to effectively manage any hantavirus outbreaks. Sharing information and coordinating containment measures can help prevent the spread of the virus among cross-border workers and their residential communities.
+
+### Implications for the healthcare system
+The identification of the hantavirus strain by the HUG demonstrates the importance of investing in high-security laboratories and specialized personnel. For cross-border workers, this means having access to faster and more accurate diagnoses, which can make a difference in managing any infections.
+
+### Economic considerations
+The management of emerging virus outbreaks can have a significant economic impact, especially for cross-border workers who depend on work in Switzerland. The temporary closure of workplaces or reduced productivity due to illness can affect the incomes of cross-border workers and their families.
+
+### Future prospects
+The discovery of the hantavirus strain by the HUG paves the way for further research and the development of more effective treatments. For cross-border workers, this could mean greater safety in the workplace and better protection against infectious diseases.
+
+## Recommended tools
+For an updated estimate, use the [net salary calculator](nav:calculator) and the [CHF-EUR exchange comparator](nav:exchange).`,"blog.article.hantavirus-ginevra-identificazione.body3":`## Action: What to do in case of suspected infection
+If you are a cross-border worker and suspect you have been exposed to hantavirus, it is important to act quickly and follow the appropriate procedures to protect your health and that of others.
+
+### Step-by-step procedure
+1. **Recognize the symptoms**: Symptoms of hantavirus may include fever, muscle aches, fatigue, and difficulty breathing. If you experience these symptoms, consult a doctor immediately.
+
+2. Contact your doctor: Inform your doctor about your symptoms and the possibility of exposure to hantavirus. It is important to provide detailed information about your recent history, including any travel or contact with infected individuals.
+
+3. Isolation: If you suspect you are infected, avoid close contact with other people to prevent transmission of the virus. Follow your doctor's instructions for isolation.
+
+4. Diagnostic tests: Your doctor may recommend diagnostic tests to confirm the infection. These tests may include blood tests and respiratory samples.
+
+5. Treatment: There is no specific treatment for hantavirus, but managing symptoms and medical support can improve the chances of recovery. Follow your doctor's instructions carefully.
+
+### Useful resources
+- Salary calculator: To understand the economic impact of any absences from work, use our [salary calculator](nav:calculator).
+
+- Health information: For further information on health and safety at work, consult the resources available on the website of the Federal Office of Public Health (FOPH).
+
+- Support for cross-border workers: If you have specific questions about your situation as a cross-border worker, contact our support team for personalized assistance.
+
+### Prevention
+Prevention is key to avoiding hantavirus infection. Follow these measures to reduce the risk:
+
+- Personal hygiene: Wash your hands regularly with water and soap, especially after touching potentially contaminated surfaces.
+
+- Cleaning environments: Keep work and home environments clean and sanitized, especially if there are signs of rodent presence.
+
+- Personal protection: Use personal protective equipment, such as masks and gloves, if you work in environments at risk of exposure to rodents or their droppings.
+
+### Conclusion
+The identification of the hantavirus strain by the University Hospital of Geneva is an important step in the management of infectious diseases. For cross-border workers, this means having access to faster and more accurate diagnoses, which can make a difference in managing any infections. Follow prevention measures and consult a doctor immediately if you experience suspicious symptoms.
+
+*Source: [swissinfo.ch](https://www.swissinfo.ch/ita/sicurezza-del-paziente/come-i-medici-di-ginevra-hanno-identificato-lhantavirus/91429936)*`,"blog.article.hantavirus-ginevra-identificazione.faq":'[{"q":"What are the symptoms of hantavirus?","a":"The symptoms of hantavirus may include fever, muscle aches, fatigue, and respiratory difficulties. If you experience these symptoms, consult a doctor immediately."},{"q":"How is hantavirus transmitted?","a":"The Andes strain is the only hantavirus confirmed to be transmitted from person to person, although it requires close contact. Transmission can occur through inhalation of viral particles present in the droppings of infected rodents."},{"q":"What should I do if I suspect an infection?","a":"If you suspect an infection, consult a doctor immediately and follow the instructions for isolation and treatment. Avoid close contact with other people to prevent the transmission of the virus."}]'};export{e as default};

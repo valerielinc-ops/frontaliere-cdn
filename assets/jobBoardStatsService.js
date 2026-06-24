@@ -1,0 +1,1 @@
+import{y as n}from"./router.js";async function e(o=!1){const s=o?`?fresh=${Date.now()}`:"",t=await fetch(n(`/data/jobs-stats.json${s}`),{cache:o?"no-store":"default"});if(!t.ok)throw new Error(`Failed to load job board stats (${t.status})`);const a=await t.json();return!a||typeof a!="object"?null:a}export{e as f};

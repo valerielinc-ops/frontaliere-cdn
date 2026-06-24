@@ -1,0 +1,45 @@
+const i={"blog.article.controlli-frontiera-g7-divieti-entrata.body1":`## In breve
+- Controlli di frontiera rafforzati tra Francia e Svizzera
+- 11 divieti di entrata in Svizzera
+- Centinaia di oggetti pericolosi sequestrati
+
+## Fatti chiave
+- **Cosa**: Controlli di frontiera rafforzati
+- Quando: Durante il G7 di Evian
+- Dove: Frontiera Francia-Svizzera
+- Chi: Consiglio di Stato ginevrino
+- Importo: 11 divieti di entrata, centinaia di oggetti sequestrati
+
+I controlli di frontiera rafforzati tra Francia e Svizzera, eseguiti nell'ambito del recente G7 di Evian, hanno portato a 11 divieti di entrata nella Confederazione. Lo annuncia oggi il Consiglio di Stato ginevrino, secondo cui sono state raccolte quasi 120 segnalazioni di persone ricercate dalle autorità, di cui un centinaio da quelle francesi.
+
+Per quanto riguarda i materiali pericolosi, sono stati effettuati più di 160 sequestri, per un totale di centinaia di oggetti. Un quarto è da far risalire a ispezioni doganali, mentre i restanti sono avvenuti sul territorio del canton Ginevra.
+
+### Dettagli dei sequestri
+La polizia locale dovrebbe pubblicare a breve il proprio rapporto operativo dettagliato sull'evento, precisa il governo cantonale. Vi saranno anche indagini sul funzionamento del dispositivo messo in atto dalle forze dell'ordine e sui mezzi utilizzati.
+
+Dieci giorni fa, in occasione di una manifestazione contro il vertice fra i potenti del pianeta che ha radunato più di 20'000 persone nella città di Calvino, gli agenti hanno fatto ricorso a un cordone di contenimento, che ha suscitato forte indignazione tra i membri del collettivo No G7. Qualche centinaio di manifestanti sono stati trattenuti per diverse ore senza cibo e acqua e poi rilasciati dopo i controlli d'identità.`,"blog.article.controlli-frontiera-g7-divieti-entrata.body2":`## Implicazioni pratiche
+I controlli rafforzati alla frontiera hanno avuto un impatto significativo sulla sicurezza e sulla libertà di movimento. Le autorità svizzere e francesi hanno collaborato strettamente per garantire la sicurezza durante l'evento, ma questo ha anche portato a disagi per i manifestanti e i cittadini.
+
+### Disagi per i manifestanti
+Durante la manifestazione contro il G7, alcuni manifestanti sono stati trattenuti per diverse ore senza cibo e acqua. Questo ha suscitato indignazione tra i membri del collettivo No G7, che hanno criticato le misure di contenimento adottate dalle forze dell'ordine.
+
+### Collaborazione tra autorità
+Le autorità svizzere e francesi hanno lavorato insieme per garantire la sicurezza durante il vertice. Questo ha portato a un aumento dei controlli e a un maggior numero di sequestri di oggetti pericolosi. Le indagini sul funzionamento del dispositivo di sicurezza saranno fondamentali per migliorare le future operazioni.
+
+### Futuro dei controlli di frontiera
+Le indagini sul funzionamento del dispositivo di sicurezza e sui mezzi utilizzati saranno cruciali per migliorare le future operazioni di controllo alla frontiera. Le autorità svizzere e francesi dovranno lavorare insieme per garantire la sicurezza senza compromettere la libertà di movimento dei cittadini.
+
+## Tool consigliati
+Per una stima aggiornata, usa il [calcolatore stipendio netto](nav:calculator) e il [comparatore cambio CHF-EUR](nav:exchange).`,"blog.article.controlli-frontiera-g7-divieti-entrata.body3":`## Cosa fare se si è coinvolti in controlli di frontiera
+Se si è coinvolti in controlli di frontiera, è importante seguire le istruzioni delle autorità e collaborare con loro. È anche utile essere informati sui propri diritti e sulle procedure di controllo.
+
+### Diritti dei cittadini
+I cittadini hanno il diritto di essere trattati con rispetto e dignità durante i controlli di frontiera. Se si ritiene di essere stati trattati in modo ingiusto, è possibile presentare un reclamo alle autorità competenti.
+
+### Procedure di controllo
+Durante i controlli di frontiera, è importante avere con sé i documenti necessari, come il passaporto o la carta d'identità. È anche utile essere preparati a rispondere alle domande delle autorità e a fornire informazioni accurate.
+
+### Utilizzo degli strumenti del sito
+Per ulteriori informazioni sui diritti dei cittadini e sulle procedure di controllo, è possibile consultare il [calcolatore di imposte](nav:calculator) e il comparatore di cambi disponibili sul sito.
+
+*Fonte: [tio.ch](https://www.tio.ch/svizzera/cronaca/1934488/g7-controlli-svizzera-entrata-divieti-frontiera)*`,"blog.article.controlli-frontiera-g7-divieti-entrata.faq":`[{"q":"Cosa sono i controlli di frontiera rafforzati?","a":"I controlli di frontiera rafforzati sono misure di sicurezza adottate per garantire la sicurezza durante eventi importanti, come il G7. Questi controlli possono includere ispezioni doganali e verifiche d'identità."},{"q":"Quanti divieti di entrata sono stati emessi?","a":"Sono stati emessi 11 divieti di entrata in Svizzera durante i controlli di frontiera rafforzati."},{"q":"Quali oggetti pericolosi sono stati sequestrati?","a":"Sono stati sequestrati centinaia di oggetti pericolosi, tra cui armi e materiali esplosivi."}]`};export{i as default};

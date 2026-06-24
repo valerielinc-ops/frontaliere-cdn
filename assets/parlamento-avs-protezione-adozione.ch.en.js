@@ -1,0 +1,64 @@
+const e={"blog.article.parlamento-avs-protezione-adozione.body1":`## In brief
+- 13th AVS: mixed financing approved by the Conciliation Conference
+- Adoptive: 112 votes in favour, 68 against for dismissal protection
+- Proxy marriage: 111 votes in favour, 72 against for the ban
+- Electronic prescriptions: possible mandatory use to increase safety
+
+## Key facts
+- What: Approval of mixed financing for the 13th AVS
+- When: Thursday, a short but intense parliamentary session
+- Where: Council of States, Bern
+- Who: Council of States, National Council, Therapeutic Agents Commission
+- Amount: not yet specified (mixed financing)
+- What: Ban on proxy marriage (111‑72)
+- What: Protection for adoptive mothers (112‑68)
+- What: Possible mandatory electronic prescriptions
+
+The Council of States gave the green light to the Conciliation Conference's proposals for a mixed financing of the thirteenth AVS, without specifying the exact amount. In the same sitting, the National Council approved amendments to the Federal Act on Therapeutic Agents, paving the way for mandatory electronic prescriptions to strengthen patient safety. At the same time, the National Council resolved the last divergence with the Council of States on indebtedness: over‑indebted persons will now be able to settle their debts by declaring bankruptcy, a measure that simplifies the exit from debt.
+
+An initiative from the Canton of Ticino received the support of the National Council: adoptive mothers will be protected from dismissal with the same safeguards as biological mothers (112 votes to 68). The measure adds to the protection already provided during pregnancy and the first 16 weeks postpartum, extending it also to adoptive families.
+
+Finally, the National Council rejected proxy marriage, with 111 votes in favour of the ban and 72 against. The motion, presented by Esther Friedli (SVP/SG), aims to close a legal loophole used in some patriarchal cultures. The issue of Bilaterals III was referred to the competent committee, postponing the discussion on the double majority (people and cantons) to a later date.
+
+[Calculate your tax impact](nav:calculator) with the new AVS financing.`,"blog.article.parlamento-avs-protezione-adozione.body2":`### Practical implications for Swiss citizens
+
+Mixed financing of the 13th AVS – The decision of the Council of States opens the way to a combination of federal resources and cantonal contributions. In practice, pensioners could see payment stability, but cantonal administrations will have to adjust their budgets to cover the cantonal share. The result is a reduction in the risk of deficit in the AVS fund, with potential effects on the level of future pensions.
+
+Electronic prescriptions – The adoption of digital prescriptions aims to reduce transcription errors and improve medication tracking. Pharmacists will have to update their systems, while doctors will be required to sign electronically. For patients, the procedure will be faster: the prescription will arrive directly at the point of sale via a QR code or a secure link. If this step becomes mandatory, it will also affect LAMal/KVG health insurers, which will have to adapt their reimbursement protocols.
+
+Second chance for the over-indebted – The possibility of declaring bankruptcy to extinguish debts represents a turning point for those who have accumulated liabilities exceeding income. The procedure, handled by the bankruptcy court, allows residual debts to be cancelled after liquidation of assets. This could stimulate a recovery in households' spending capacity, with positive repercussions on domestic consumption and GDP.
+
+Protection for adoptive mothers – Extending dismissal protection to adoptive mothers fills a legislative gap. Adoptive workers will now be able to count on continued employment during the first months of the child's integration, reducing the risk of income loss. Companies will have to update collective agreements and HR manuals to include this new provision.
+
+Ban on proxy marriage – The measure targets a rare practice present in some communities. Legally, couples must now ensure the physical presence of both spouses at the ceremony; otherwise the marriage will not be recognised for family reunification. This rule could reduce cases of abusive migrant exploitation.
+
+Bilaterals III postponed – The suspension of the discussion on the double majority delays any potential changes to the EU‑Switzerland agreements. Companies with cross‑border supply chains will have to wait for further clarifications, maintaining the status quo until the commission presents a definitive proposal.
+
+| Topic | Before the decision | After the decision |
+|-------|--------------------|--------------------|
+| 13th AVS | Single financing | Mixed financing (federal + cantonal) |
+| Prescriptions | Paper | Electronic (potentially mandatory) |
+| Over‑indebted | No way out | Possibility of bankruptcy |
+| Adoptive mothers | No protection | Dismissal protection |
+| Proxy marriage | Possible | Prohibited |
+
+The changes will have a cross‑sector impact on AVS/AHV, cantons, the National Council, the Council of States, LAMal/KVG and the cost of living, since pension stability and health security directly influence household spending.
+
+## Useful planning tools
+To estimate your pension strategy, use the [pension planner](nav:pension) and the [pillar 3 simulator](nav:pillar3).`,"blog.article.parlamento-avs-protezione-adozione.body3":`### What to do concretely starting today
+
+1. Check your AVS status – Log into the Federal Office of Social Insurance (FSIO) portal to review your AVS account. If you are retired, verify your pension amount and follow the instructions for any cantonal contribution updates. Use our [AVS pension calculator](nav:pension) to estimate the effect of mixed financing.
+
+2. Switch to electronic prescriptions – If you are a doctor or pharmacist, request activation of the digital prescription system through your professional association. Patients must ask their doctor to send the prescription to their preferred pharmacy. Keep the received QR code and show a copy to the pharmacist. For those insured under LAMal/KVG, check with your health insurance fund whether reimbursement is already automated.
+
+3. If you are over-indebted, consider bankruptcy – Contact a bankruptcy advisor or your lawyer to start the bankruptcy filing process. Prepare all documents related to debts, creditors and assets. The liquidation procedure is handled by the bankruptcy court competent for your canton. After closure, any remaining debts will be written off.
+
+4. Adoptive mothers: know your rights – If you are on adoptive maternity leave, inform your employer of the protection against dismissal. Request written confirmation of the protection period (similar to that for biological maternity). If in doubt, turn to your canton's legal advice service.
+
+5. Plan your wedding – If you intend to marry, ensure that both spouses are physically present at the ceremony. Avoid notarial delegations or proxy representations for marriage, as they will no longer be recognized for family reunification.
+
+6. Follow developments of Bilaterals III – Subscribe to updates from the Swiss Parliament or consult the Federal Council website to know when the committee will present the final proposal. Companies with cross‑border activities will need to monitor any regulatory changes.
+
+To explore the impact of these changes on your net salary, use our [salary calculator](nav:calculator). Stay informed and take the necessary steps to protect your financial and employment situation.
+
+*Source: [rsi.ch](https://www.rsi.ch/s/3809087)*`,"blog.article.parlamento-avs-protezione-adozione.faq":'[{"q":"What was the outcome of the vote on the ban on proxy marriages?","a":"The National Council approved the ban with 111 votes in favour and 72 against, extending the family reunification ban to marriages celebrated in the absence of one of the spouses."},{"q":"What protection do adoptive mothers receive under the new measure?","a":"Adoptive mothers will be protected from dismissal with the same safeguards as biological mothers, thanks to the initiative approved by the National Council with 112 votes in favour and 68 against."},{"q":"How can an over-indebted person settle their debts under the new law?","a":"The National Council approved the possibility of declaring bankruptcy, allowing over-indebted individuals to wipe out remaining debts after liquidating their assets."}]'};export{e as default};
